@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="	#484848"> <!--boja na pritisak-->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#565968" />
+            <corners
+                android:bottomRightRadius="900000dp"
+                android:bottomLeftRadius="900000dp"
+                android:topLeftRadius="900000dp"
+                android:topRightRadius="900000dp"/>
+        </shape>
+
+
+    </item>
+
+</ripple>

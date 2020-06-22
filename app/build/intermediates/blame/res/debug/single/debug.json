@@ -1,0 +1,582 @@
+[
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s28.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s28.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s13.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ripple.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-hdpi\\ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_up.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-xxhdpi\\ic_up.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_zoomin.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-xxhdpi\\zoomin.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_stap.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\stap.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_down.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-xxhdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_zoomout.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\zoomout.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_text.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-xxhdpi\\ic_text.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rounded_edittext.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-hdpi\\rounded_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_ugrozenasigurnost.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\ugrozenasigurnost.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s7.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_manipulacijapriizdavanjulistica.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\manipulacijapriizdavanjulistica.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-xhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_zoomin.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\zoomin.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_zatvaranje.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\zatvaranje.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_down.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zoomout.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-hdpi\\zoomout.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s1.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_narusena.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\narusena.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_bugarskivoz.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\bugarskivoz.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_manipulacijapriidentifiacib.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\manipulacijapriidentifiacib.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_up.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-hdpi\\ic_up.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_text.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_text.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_zabranaposmatranja.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\zabranaposmatranja.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_down.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s8.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ripple_effect_raise.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-mdpi\\ripple_effect_raise.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_up.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-mdpi\\ic_up.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s12.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_up.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_up.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_glasanje.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\glasanje.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zoomin.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-xhdpi\\zoomin.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_up.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_up.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s21.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s21.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_uskracivanjepravanaglasanje.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\uskracivanjepravanaglasanje.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s9.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_zoomin.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\zoomin.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_zlopotrebapromocije.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\zlopotrebapromocije.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s26.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s26.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_down.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-mdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_neslaganje.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\neslaganje.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_zoomout.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\zoomout.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_home.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_text.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-xhdpi\\ic_text.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_down.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s19.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s19.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s30.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s30.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_up.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-xhdpi\\ic_up.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_ostalo.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\ostalo.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_odsustvoclanova.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\odsustvoclanova.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_down.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-hdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zoomin.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-mdpi\\zoomin.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s20.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s20.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s29.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s29.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zoomout.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-xhdpi\\zoomout.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s3.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s23.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s23.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s10.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_trazenje.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\trazenje.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_podloga.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-hdpi\\podloga.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_text.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_text.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s6.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_brojanje.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\brojanje.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_otvaranje.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\otvaranje.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_zoomin.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\zoomin.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_nedozvoljenodopisivanjeglsaova.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\nedozvoljenodopisivanjeglsaova.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s24.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s24.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s17.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s17.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_porodicnoglasanje.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\porodicnoglasanje.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s16.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s16.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_zoomout.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-xxhdpi\\zoomout.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_nedostatak.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\nedostatak.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_stapp.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\stapp.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_sta.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\sta.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_kupovinaglasova.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\kupovinaglasova.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s25.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s25.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_uredjenje.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\uredjenje.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_gif.gif.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\gif.gif"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s18.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s18.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s4.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-mdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_zlupotrebaglsackilistica.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\zlupotrebaglsackilistica.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_zoomout.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\zoomout.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s15.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_home.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_text.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-hdpi\\ic_text.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_krsenjeizbornesutnje.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\krsenjeizbornesutnje.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_pogresnoevidentirani.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\pogresnoevidentirani.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s11.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s2.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_home.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_text.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-mdpi\\ic_text.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_namjernoponistavanje.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\namjernoponistavanje.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_text.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s5.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_logoheader.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\logoheader.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s22.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s22.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_otvaranjevreca.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\otvaranjevreca.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_pritiscinabirace.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\pritiscinabirace.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_kasnjenjeuotvaranju.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\kasnjenjeuotvaranju.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_pakovanje.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\pakovanje.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s27.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s27.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_s14.jpg.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\s14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_zoomout.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-mdpi\\zoomout.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-xxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_up.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zoomin.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-hdpi\\zoomin.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_pocetna.mp4.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\pocetna.mp4"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ripple_effect_raise1.xml.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-mdpi\\ripple_effect_raise1.xml"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_down.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\drawable-xhdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\res\\merged\\debug\\raw_nisuistaknutirezultat.png.flat",
+        "source": "C:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\src\\main\\res\\raw\\nisuistaknutirezultat.png"
+    }
+]

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Prirucnik za posmatranje izbora</string>
+    <string name="logo_u_zaglavlju">logo u zaglavlju</string>
+    <string name="priru_nik_za_posmatranje_izbora">PRIRUČNIK ZA POSMATRANJE IZBORA</string>
+    <string name="unesite_eljeni_pojam">Unesite željeni pojam...</string>
+    <string name="ure_enje_bira_kog_mjesta">UREĐENJE BIRAČKOG MJESTA</string>
+    <string name="otvaranje_bm">OTVARANJE BM</string>
+    <string name="pogre_no_evidentiranje_rezultata_glasanju_na_bm">Pogrešno evidentiranje rezultata glasanju na BM</string>
+    <string name="odbijanje_predsjednika_ce_bo_da_unese_va_u_primjedbu">ODBIJANJE PREDSJEDNIKA/CE BO DA UNESE VAŠU PRIMJEDBU</string>
+    <string name="kru_no_glasanje_tzv_bugarski_voz">Kružno glasanje(tzv. bugarski voz)</string>
+    <string name="zloupotreba_pomaga_a_pri_glasanju">ZLOUPOTREBA POMAGAČA PRI GLASANJU</string>
+    <string name="neslaganja_u_testu_ta_nosti">Neslaganja u testu tačnosti</string>
+    <string name="odbijanje_predsjednika_ce_bo_da_unese_va_u_primjedbu_prigovor">Odbijanje predsjednika/ce bo da unese vašu primjedbu/prigovor</string>
+    <string name="koraktext1">koraktext1</string>
+    <string name="odsustvo_lanova_bo">ODSUSTVO ČLANOVA BO</string>
+    <string name="plakati_politi_kih_subjekata_u_okolini_bm">PLAKATI POLITIČKIH SUBJEKATA U OKOLINI BM</string>
+    <string name="pakovanje_i_transport_izbornog_materijala">PAKOVANJE I TRANSPORT IZBORNOG MATERIJALA</string>
+    <string name="ka_njenje_u_otvaranju_bm">Kašnjenje u otvaranju BM</string>
+    <string name="progla_avanje_neva_e_ih_glasa_kih_listi_a">Proglašavanje nevažećih glasačkih listića</string>
+    <string name="bugarski_voz_kru_no_glasanju">Bugarski voz (kružno glasanju)</string>
+    <string name="manipulacije_pri_izdavanju_glasa_kih_listi_a">Manipulacije pri izdavanju glasačkih listića</string>
+</resources>
