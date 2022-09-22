@@ -19,4 +19,7 @@
     <string name="progla_avanje_neva_e_ih_glasa_kih_listi_a">Proglašavanje nevažećih glasačkih listića</string>
     <string name="bugarski_voz_kru_no_glasanju">Bugarski voz (kružno glasanju)</string>
     <string name="manipulacije_pri_izdavanju_glasa_kih_listi_a">Manipulacije pri izdavanju glasačkih listića</string>
-</resources>
+    <string name="txtCredits"><![CDATA[<string name=\"txtCredits\">www.google.com</string>]]></string>
+    <string name="url">Looking for Digital Visiting card?
+<a href="https://play.google.com/store/apps/details?id=com.themarkwebs.govcard">Get it here</a>
+</string></resources>

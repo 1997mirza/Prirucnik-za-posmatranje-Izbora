@@ -1,4 +1,4 @@
-com.example.prirucnikizbora
+com.creativocentar.prirucnik22
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -785,6 +785,11 @@ id left
 id line1
 id line3
 id linearView1
+id linearView1Bottom
+id linearView1Image
+id linearView1Text
+id linearView1Top
+id linearView2
 id linearView21
 id linearView22
 id linearView23
@@ -797,6 +802,10 @@ id linearView3
 id linearView4
 id linearView5
 id linija
+id linijalink
+id link1
+id link2
+id linkView
 id listMode
 id list_item
 id ll_header
@@ -831,7 +840,6 @@ id naslovG3
 id naslovG4
 id naslovG5
 id naslovG6
-id naslovG7
 id naslovG8
 id naslovMjere
 id naslovPrikaz
@@ -844,14 +852,23 @@ id notification_background
 id notification_main_column
 id notification_main_column_container
 id opcija1
+id opcija1Broj
 id opcija2
+id opcija2Broj
 id opcija3
+id opcija3Broj
 id opcija4
+id opcija4Broj
 id opcija5
+id opcija5Broj
 id opcija6
+id opcija6Broj
 id opcija7
+id opcija7Broj
 id opcija8
+id opcija8Broj
 id opcija9
+id opcija9Broj
 id packed
 id parent
 id parentPanel
@@ -896,6 +913,7 @@ id podnaslov83
 id podnaslov84
 id podnaslov85
 id podnaslov86
+id podnaslov88
 id podnaslovS1
 id podnaslovS10
 id podnaslovS11
@@ -1077,7 +1095,9 @@ mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 raw brojanje
 raw bugarskivoz
+raw edukujse
 raw gif
+raw gif2
 raw glasanje
 raw kasnjenjeuotvaranju
 raw krsenjeizbornesutnje
@@ -1199,8 +1219,10 @@ string priru_nik_za_posmatranje_izbora
 string progla_avanje_neva_e_ih_glasa_kih_listi_a
 string search_menu_title
 string status_bar_notification_info_overflow
+string txtCredits
 string unesite_eljeni_pojam
 string ure_enje_bira_kog_mjesta
+string url
 string zloupotreba_pomaga_a_pri_glasanju
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

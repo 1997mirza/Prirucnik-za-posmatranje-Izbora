@@ -92,8 +92,8 @@
         />
     <!-- pocenta stranica -->
     <LinearLayout
-        android:id="@+id/linearView1"
-        android:visibility="visible"
+        android:id="@+id/linearView2"
+        android:visibility="gone"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@drawable/podloga"
@@ -106,8 +106,6 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             android:orientation="horizontal">
-
-
             <ImageView
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
@@ -350,46 +348,7 @@
             android:layout_height="3dp"
             android:background="@color/siva"
             />
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:background="#2Bff8a00"
-            android:orientation="horizontal">
 
-
-            <pl.droidsonroids.gif.GifImageView
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="0.20"
-                android:layout_margin="5dp"
-
-                android:src="@raw/gif" />
-            <TextView
-                android:id="@+id/naslovG7"
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight=".7"
-                android:paddingRight="10dp"
-                android:paddingLeft="10dp"
-                app:autoSizeMaxTextSize="15sp"
-                android:gravity="start|center_vertical"
-                app:autoSizeTextType="uniform"
-                android:text="ŠTA TREBATE URADITI"
-                android:textAllCaps="false"
-                android:textColor="@color/bijela"
-                android:textColorHighlight="@color/crna"
-                android:textIsSelectable="false"
-                android:textStyle="bold"
-                android:layout_marginStart="0dp"
-                android:layout_marginLeft="0dp" />
-
-        </LinearLayout>
-        <View
-            android:layout_width="match_parent"
-            android:layout_height="3dp"
-            android:background="@color/siva"
-            />
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -421,6 +380,119 @@
                 android:textIsSelectable="false"
                 android:textStyle="bold" />
 
+        </LinearLayout>
+    </LinearLayout>
+
+    <!--nova pocetna-->
+    <LinearLayout
+        android:id="@+id/linearView1"
+        android:visibility="visible"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/podloga"
+        android:orientation="vertical"
+        android:layout_below="@id/plava_naslov"
+        android:layout_above="@id/donja_traka" >
+        <LinearLayout
+            android:id="@+id/linearView1Top"
+            android:visibility="visible"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:layout_weight="1"
+         >
+            <LinearLayout
+                android:id="@+id/linearView1Image"
+                android:visibility="visible"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical"
+                android:layout_weight="0.4"
+                >
+                <pl.droidsonroids.gif.GifImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:src="@raw/gif2" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/linearView1Text"
+                android:visibility="visible"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical"
+                android:layout_weight="0.6"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    app:autoSizeMaxTextSize="15sp"
+                    android:textSize="25dp"
+                    android:maxLines="2"
+                    android:gravity="center"
+                    android:paddingLeft="50dp"
+                    android:paddingRight="50dp"
+                    android:text="REAGUJ NA NEPRAVILNOSTI"
+                    android:textAllCaps="false"
+                    android:textColor="@color/bijela"
+                    android:textColorHighlight="@color/crna"
+                    android:textIsSelectable="false"
+                    android:textStyle="bold"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="8dp"
+            android:layout_marginVertical="20dp"
+            android:background="@color/siva" />
+        <LinearLayout
+            android:id="@+id/linearView1Bottom"
+            android:visibility="visible"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            >
+            <LinearLayout
+                android:visibility="visible"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical"
+                android:layout_weight="0.4"
+                >
+                <ImageView
+                    android:src="@raw/edukujse"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"/>
+
+            </LinearLayout>
+            <LinearLayout
+                android:visibility="visible"
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical"
+                android:layout_weight="0.6"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    app:autoSizeMaxTextSize="15sp"
+                    android:textSize="25dp"
+                    android:maxLines="2"
+                    android:gravity="center"
+                    android:paddingLeft="50dp"
+                    android:paddingRight="50dp"
+                    android:text="EDUKUJ SE"
+                    android:textAllCaps="false"
+                    android:textColor="@color/bijela"
+                    android:textColorHighlight="@color/crna"
+                    android:textIsSelectable="false"
+                    android:textStyle="bold"
+                    />
+            </LinearLayout>
         </LinearLayout>
     </LinearLayout>
 
@@ -607,7 +679,7 @@
                         android:gravity="center_vertical"
                         android:paddingLeft="10dp"
                         android:paddingRight="10dp"
-                        android:text="NIJE OSIGURANA TAJNOST GLASANJA"
+                        android:text="TAJNOST GLASANJA"
                         android:textAllCaps="false"
                         android:textColor="@color/bijela"
                         android:textColorHighlight="@color/crna"
@@ -1532,7 +1604,6 @@
                     android:padding="15dp"
                     android:textColor="@color/bijela"
                     android:textSize="18sp" />
-
                 <ImageView
                     android:id="@+id/slika"
                     android:layout_below="@id/linija"
@@ -1541,7 +1612,38 @@
                     android:layout_marginHorizontal="15dp"
                     android:layout_width="fill_parent"
                     android:layout_height="match_parent" />
-
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:id="@+id/linkView"
+                    android:layout_below="@id/linija"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="Koalicija Pod lupom"
+                        android:layout_gravity="center_vertical|end"
+                        android:gravity="start|end"
+                        android:padding="15dp"
+                        android:textColor="@color/bijela"
+                        android:textSize="18sp"
+                        android:id="@+id/link1" />
+                    <View
+                        android:id="@+id/linijalink"
+                        android:layout_width="match_parent"
+                        android:layout_height="3dp"
+                        android:background="@color/siva" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="Centralna izborna komisija BiH"
+                        android:layout_gravity="center_vertical|end"
+                        android:gravity="start|end"
+                        android:padding="15dp"
+                        android:textColor="@color/bijela"
+                        android:textSize="18sp"
+                        android:id="@+id/link2" />
+                </LinearLayout>
             </RelativeLayout>
         </ScrollView>
 
@@ -1687,25 +1789,45 @@
                     android:orientation="horizontal"
                     android:id="@+id/korak11"
                     android:layout_height="60dp">
-
-                    <TextView
-                        android:id="@+id/opcija1"
+                    <LinearLayout
                         android:layout_width="0dp"
                         android:layout_height="match_parent"
-                        android:layout_weight="0.9"
-                        app:autoSizeMaxTextSize="20sp"
-                        app:autoSizeMinTextSize="12sp"
-                        app:autoSizeStepGranularity="2sp"
-                        app:autoSizeTextType="uniform"
-                        android:maxLines="2"
-                        android:gravity="left|center_vertical"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="KORAK"
-                        android:textAllCaps="false"
-                        android:textColor="@color/bijela"
-                        android:textColorHighlight="@color/crna"
-                        android:textIsSelectable="false" />
+                        android:orientation="horizontal"
+                        android:layout_weight="0.9">
+                        <TextView
+                            android:id="@+id/opcija1Broj"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            app:autoSizeMaxTextSize="20sp"
+                            app:autoSizeMinTextSize="12sp"
+                            app:autoSizeStepGranularity="2sp"
+                            app:autoSizeTextType="uniform"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:text="1 - "
+                            android:maxLines="1"
+                            android:textAllCaps="false"
+                            android:textColor="@color/bijela"
+                            android:textColorHighlight="@color/crna"
+                            android:textIsSelectable="false" />
+                        <TextView
+                            android:id="@+id/opcija1"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            app:autoSizeMaxTextSize="20sp"
+                            app:autoSizeMinTextSize="12sp"
+                            app:autoSizeStepGranularity="2sp"
+                            app:autoSizeTextType="uniform"
+                            android:maxLines="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingRight="10dp"
+                            android:text="korak"
+                            android:textAllCaps="false"
+                            android:textColor="@color/bijela"
+                            android:textColorHighlight="@color/crna"
+                            android:textIsSelectable="false" />
+                    </LinearLayout>
                     <ImageView
                         android:id="@+id/imopcija1"
                         android:paddingTop="20dp"
@@ -1718,7 +1840,7 @@
                     android:id="@+id/korak1text"
                     android:visibility="visible"
                     android:layout_width="match_parent"
-                    android:text="koraktext"
+                    android:text="Odavno je uspostavljena činjenica da čitača ometa razumljivi tekst dok gleda raspored elemenata na stranici. Smisao korištenja Lorem Ipsum-a jest u tome što umjesto 'sadržaj ovjde, sadržaj ovjde' imamo normalni raspored slova i riječi, pa čitač ima dojam da gleda tekst na razumljivom jeziku. Mnogi programi za stolno izdavaštvo i uređivanje web stranica danas koriste Lorem Ipsum kao zadani model teksta, i ako potražite 'lorem ipsum' na Internetu, kao rezultat dobit ćete mnoge stranice u izradi. Razne verzije razvile su se tijekom svih tih godina, ponekad slučajno, ponekad namjerno (s dodatkom humora i slično)."
                     android:layout_gravity="center_vertical|left"
                     android:layout_height="wrap_content"
                     android:gravity="start|end"
@@ -1740,25 +1862,45 @@
                     android:layout_width="match_parent"
                     android:orientation="horizontal"
                     android:layout_height="60dp">
-
-                    <TextView
-                        android:id="@+id/opcija2"
+                    <LinearLayout
                         android:layout_width="0dp"
                         android:layout_height="match_parent"
-                        android:layout_weight="0.9"
-                        app:autoSizeMaxTextSize="20sp"
-                        app:autoSizeMinTextSize="12sp"
-                        app:autoSizeStepGranularity="2sp"
-                        app:autoSizeTextType="uniform"
-                        android:maxLines="2"
-                        android:gravity="left|center_vertical"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="KORAK"
-                        android:textAllCaps="false"
-                        android:textColor="@color/bijela"
-                        android:textColorHighlight="@color/crna"
-                        android:textIsSelectable="false" />
+                        android:orientation="horizontal"
+                        android:layout_weight="0.9">
+                        <TextView
+                            android:id="@+id/opcija2Broj"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            app:autoSizeMaxTextSize="20sp"
+                            app:autoSizeMinTextSize="12sp"
+                            app:autoSizeStepGranularity="2sp"
+                            app:autoSizeTextType="uniform"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:text="1 - "
+                            android:maxLines="1"
+                            android:textAllCaps="false"
+                            android:textColor="@color/bijela"
+                            android:textColorHighlight="@color/crna"
+                            android:textIsSelectable="false" />
+                        <TextView
+                            android:id="@+id/opcija2"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            app:autoSizeMaxTextSize="20sp"
+                            app:autoSizeMinTextSize="12sp"
+                            app:autoSizeStepGranularity="2sp"
+                            app:autoSizeTextType="uniform"
+                            android:maxLines="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingRight="10dp"
+                            android:text="korak"
+                            android:textAllCaps="false"
+                            android:textColor="@color/bijela"
+                            android:textColorHighlight="@color/crna"
+                            android:textIsSelectable="false" />
+                    </LinearLayout>
                     <ImageView
                         android:id="@+id/imopcija2"
                         android:paddingTop="20dp"
@@ -1792,24 +1934,45 @@
                     android:orientation="horizontal"
                     android:layout_height="60dp">
 
-                    <TextView
-                        android:id="@+id/opcija3"
+                    <LinearLayout
                         android:layout_width="0dp"
                         android:layout_height="match_parent"
-                        android:layout_weight="0.9"
-                        app:autoSizeMaxTextSize="20sp"
-                        app:autoSizeMinTextSize="12sp"
-                        app:autoSizeStepGranularity="2sp"
-                        app:autoSizeTextType="uniform"
-                        android:maxLines="2"
-                        android:gravity="left|center_vertical"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="KORAK"
-                        android:textAllCaps="false"
-                        android:textColor="@color/bijela"
-                        android:textColorHighlight="@color/crna"
-                        android:textIsSelectable="false" />
+                        android:orientation="horizontal"
+                        android:layout_weight="0.9">
+                        <TextView
+                            android:id="@+id/opcija3Broj"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            app:autoSizeMaxTextSize="20sp"
+                            app:autoSizeMinTextSize="12sp"
+                            app:autoSizeStepGranularity="2sp"
+                            app:autoSizeTextType="uniform"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:text="1 - "
+                            android:maxLines="1"
+                            android:textAllCaps="false"
+                            android:textColor="@color/bijela"
+                            android:textColorHighlight="@color/crna"
+                            android:textIsSelectable="false" />
+                        <TextView
+                            android:id="@+id/opcija3"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            app:autoSizeMaxTextSize="20sp"
+                            app:autoSizeMinTextSize="12sp"
+                            app:autoSizeStepGranularity="2sp"
+                            app:autoSizeTextType="uniform"
+                            android:maxLines="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingRight="10dp"
+                            android:text="korak"
+                            android:textAllCaps="false"
+                            android:textColor="@color/bijela"
+                            android:textColorHighlight="@color/crna"
+                            android:textIsSelectable="false" />
+                    </LinearLayout>
                     <ImageView
                         android:id="@+id/imopcija3"
                         android:paddingTop="20dp"
@@ -1842,24 +2005,45 @@
                         android:orientation="horizontal"
                         android:layout_height="60dp">
 
-                        <TextView
-                            android:id="@+id/opcija4"
+                        <LinearLayout
                             android:layout_width="0dp"
                             android:layout_height="match_parent"
-                            android:layout_weight="0.9"
-                            app:autoSizeMaxTextSize="20sp"
-                            app:autoSizeMinTextSize="12sp"
-                            app:autoSizeStepGranularity="2sp"
-                            app:autoSizeTextType="uniform"
-                            android:maxLines="2"
-                            android:gravity="left|center_vertical"
-                            android:paddingLeft="10dp"
-                            android:paddingRight="10dp"
-                            android:text="KORAK5"
-                            android:textAllCaps="false"
-                            android:textColor="@color/bijela"
-                            android:textColorHighlight="@color/crna"
-                            android:textIsSelectable="false" />
+                            android:orientation="horizontal"
+                            android:layout_weight="0.9">
+                            <TextView
+                                android:id="@+id/opcija4Broj"
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                app:autoSizeMaxTextSize="20sp"
+                                app:autoSizeMinTextSize="12sp"
+                                app:autoSizeStepGranularity="2sp"
+                                app:autoSizeTextType="uniform"
+                                android:gravity="left|center_vertical"
+                                android:paddingLeft="10dp"
+                                android:paddingRight="10dp"
+                                android:text="1 - "
+                                android:maxLines="1"
+                                android:textAllCaps="false"
+                                android:textColor="@color/bijela"
+                                android:textColorHighlight="@color/crna"
+                                android:textIsSelectable="false" />
+                            <TextView
+                                android:id="@+id/opcija4"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                app:autoSizeMaxTextSize="20sp"
+                                app:autoSizeMinTextSize="12sp"
+                                app:autoSizeStepGranularity="2sp"
+                                app:autoSizeTextType="uniform"
+                                android:maxLines="2"
+                                android:gravity="left|center_vertical"
+                                android:paddingRight="10dp"
+                                android:text="korak"
+                                android:textAllCaps="false"
+                                android:textColor="@color/bijela"
+                                android:textColorHighlight="@color/crna"
+                                android:textIsSelectable="false" />
+                        </LinearLayout>
                         <ImageView
                             android:id="@+id/imopcija4"
                             android:paddingTop="20dp"
@@ -1897,25 +2081,44 @@
                     android:layout_width="match_parent"
                     android:orientation="horizontal"
                     android:layout_height="60dp">
-
-                    <TextView
-                        android:id="@+id/opcija5"
+                    <LinearLayout
                         android:layout_width="0dp"
                         android:layout_height="match_parent"
-                        android:layout_weight="0.9"
-                        app:autoSizeMaxTextSize="20sp"
-                        app:autoSizeMinTextSize="12sp"
-                        app:autoSizeStepGranularity="2sp"
-                        app:autoSizeTextType="uniform"
-                        android:maxLines="2"
-                        android:gravity="left|center_vertical"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="KORAK5"
-                        android:textAllCaps="false"
-                        android:textColor="@color/bijela"
-                        android:textColorHighlight="@color/crna"
-                        android:textIsSelectable="false" />
+                        android:orientation="horizontal"
+                        android:layout_weight="0.9">
+                        <TextView
+                            android:id="@+id/opcija5Broj"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            app:autoSizeMaxTextSize="20sp"
+                            app:autoSizeMinTextSize="12sp"
+                            app:autoSizeStepGranularity="2sp"
+                            app:autoSizeTextType="uniform"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:text="1 - "
+                            android:maxLines="1"
+                            android:textAllCaps="false"
+                            android:textColor="@color/bijela"
+                            android:textColorHighlight="@color/crna"
+                            android:textIsSelectable="false" />
+                        <TextView
+                            android:id="@+id/opcija5"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            app:autoSizeMaxTextSize="20sp"
+                            app:autoSizeMinTextSize="12sp"
+                            app:autoSizeStepGranularity="2sp"
+                            app:autoSizeTextType="uniform"
+                            android:maxLines="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingRight="10dp"
+                            android:text="korak"
+                            android:textAllCaps="false"
+                            android:textColor="@color/bijela"
+                            android:textIsSelectable="false" />
+                    </LinearLayout>
                     <ImageView
                         android:id="@+id/imopcija5"
                         android:paddingTop="20dp"
@@ -1940,55 +2143,75 @@
             </LinearLayout>
 
                 <LinearLayout
-                android:id="@+id/korak6"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical">
-                <LinearLayout
-                    android:id="@+id/korak66"
+                    android:id="@+id/korak6"
                     android:layout_width="match_parent"
-                    android:orientation="horizontal"
-                    android:layout_height="60dp">
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <LinearLayout
+                        android:id="@+id/korak66"
+                        android:layout_width="match_parent"
+                        android:orientation="horizontal"
+                        android:layout_height="60dp">
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:orientation="horizontal"
+                            android:layout_weight="0.9">
+                            <TextView
+                                android:id="@+id/opcija6Broj"
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                app:autoSizeMaxTextSize="20sp"
+                                app:autoSizeMinTextSize="12sp"
+                                app:autoSizeStepGranularity="2sp"
+                                app:autoSizeTextType="uniform"
+                                android:gravity="left|center_vertical"
+                                android:paddingLeft="10dp"
+                                android:paddingRight="10dp"
+                                android:text="1 - "
+                                android:maxLines="1"
+                                android:textAllCaps="false"
+                                android:textColor="@color/bijela"
+                                android:textColorHighlight="@color/crna"
+                                android:textIsSelectable="false" />
+                            <TextView
+                                android:id="@+id/opcija6"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                app:autoSizeMaxTextSize="20sp"
+                                app:autoSizeMinTextSize="12sp"
+                                app:autoSizeStepGranularity="2sp"
+                                app:autoSizeTextType="uniform"
+                                android:maxLines="2"
+                                android:gravity="left|center_vertical"
+                                android:paddingRight="10dp"
+                                android:text="korak"
+                                android:textAllCaps="false"
+                                android:textColor="@color/bijela"
+                                android:textIsSelectable="false" />
+                        </LinearLayout>
+                        <ImageView
+                            android:id="@+id/imopcija6"
+                            android:paddingTop="20dp"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:src="@drawable/ic_down"
+                            android:layout_weight="0.1"/>
+                    </LinearLayout>
 
                     <TextView
-                        android:id="@+id/opcija6"
-                        android:layout_width="0dp"
-                        android:layout_height="match_parent"
-                        android:layout_weight="0.9"
-                        app:autoSizeMaxTextSize="20sp"
-                        app:autoSizeMinTextSize="12sp"
-                        app:autoSizeStepGranularity="2sp"
-                        app:autoSizeTextType="uniform"
-                        android:maxLines="2"
-                        android:gravity="left|center_vertical"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="KORAK"
-                        android:textAllCaps="false"
-                        android:textColor="@color/bijela"
-                        android:textColorHighlight="@color/crna"
-                        android:textIsSelectable="false" />
-                    <ImageView
-                        android:id="@+id/imopcija6"
-                        android:paddingTop="20dp"
-                        android:layout_width="0dp"
-                        android:layout_height="match_parent"
-                        android:src="@drawable/ic_down"
-                        android:layout_weight="0.1"/>
+                        android:id="@+id/korak6text"
+                        android:visibility="visible"
+                        android:layout_width="match_parent"
+                        android:text="koraktext"
+                        android:layout_gravity="center_vertical|left"
+                        android:layout_height="wrap_content"
+                        android:gravity="start|end"
+                        android:paddingLeft="60dp"
+                        android:paddingRight="30dp"
+                        android:textColor="@color/narandjasta"
+                        android:textSize="18sp" />
                 </LinearLayout>
-                <TextView
-                    android:id="@+id/korak6text"
-                    android:visibility="visible"
-                    android:layout_width="match_parent"
-                    android:text="koraktext"
-                    android:layout_gravity="center_vertical|left"
-                    android:layout_height="wrap_content"
-                    android:gravity="start|end"
-                    android:paddingLeft="60dp"
-                    android:paddingRight="30dp"
-                    android:textColor="@color/narandjasta"
-                    android:textSize="18sp" />
-            </LinearLayout>
 
                 <LinearLayout
                 android:id="@+id/korak7"
@@ -2001,24 +2224,45 @@
                     android:orientation="horizontal"
                     android:layout_height="60dp">
 
-                    <TextView
-                        android:id="@+id/opcija7"
+                    <LinearLayout
                         android:layout_width="0dp"
                         android:layout_height="match_parent"
-                        android:layout_weight="0.9"
-                        app:autoSizeMaxTextSize="20sp"
-                        app:autoSizeMinTextSize="12sp"
-                        app:autoSizeStepGranularity="2sp"
-                        app:autoSizeTextType="uniform"
-                        android:maxLines="2"
-                        android:gravity="left|center_vertical"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="KORAK"
-                        android:textAllCaps="false"
-                        android:textColor="@color/bijela"
-                        android:textColorHighlight="@color/crna"
-                        android:textIsSelectable="false" />
+                        android:orientation="horizontal"
+                        android:layout_weight="0.9">
+                        <TextView
+                            android:id="@+id/opcija7Broj"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            app:autoSizeMaxTextSize="20sp"
+                            app:autoSizeMinTextSize="12sp"
+                            app:autoSizeStepGranularity="2sp"
+                            app:autoSizeTextType="uniform"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:text="1 - "
+                            android:maxLines="1"
+                            android:textAllCaps="false"
+                            android:textColor="@color/bijela"
+                            android:textColorHighlight="@color/crna"
+                            android:textIsSelectable="false" />
+                        <TextView
+                            android:id="@+id/opcija7"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            app:autoSizeMaxTextSize="20sp"
+                            app:autoSizeMinTextSize="12sp"
+                            app:autoSizeStepGranularity="2sp"
+                            app:autoSizeTextType="uniform"
+                            android:maxLines="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingRight="10dp"
+                            android:text="korak"
+                            android:textAllCaps="false"
+                            android:textColor="@color/bijela"
+                            android:textColorHighlight="@color/crna"
+                            android:textIsSelectable="false" />
+                    </LinearLayout>
                     <ImageView
                         android:id="@+id/imopcija7"
                         android:paddingTop="20dp"
@@ -2052,24 +2296,45 @@
                     android:orientation="horizontal"
                     android:layout_height="60dp">
 
-                    <TextView
-                        android:id="@+id/opcija8"
+                    <LinearLayout
                         android:layout_width="0dp"
                         android:layout_height="match_parent"
-                        android:layout_weight="0.9"
-                        app:autoSizeMaxTextSize="20sp"
-                        app:autoSizeMinTextSize="12sp"
-                        app:autoSizeStepGranularity="2sp"
-                        app:autoSizeTextType="uniform"
-                        android:maxLines="2"
-                        android:gravity="left|center_vertical"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="KORAK"
-                        android:textAllCaps="false"
-                        android:textColor="@color/bijela"
-                        android:textColorHighlight="@color/crna"
-                        android:textIsSelectable="false" />
+                        android:orientation="horizontal"
+                        android:layout_weight="0.9">
+                        <TextView
+                            android:id="@+id/opcija8Broj"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            app:autoSizeMaxTextSize="20sp"
+                            app:autoSizeMinTextSize="12sp"
+                            app:autoSizeStepGranularity="2sp"
+                            app:autoSizeTextType="uniform"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:text="1 - "
+                            android:maxLines="1"
+                            android:textAllCaps="false"
+                            android:textColor="@color/bijela"
+                            android:textColorHighlight="@color/crna"
+                            android:textIsSelectable="false" />
+                        <TextView
+                            android:id="@+id/opcija8"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            app:autoSizeMaxTextSize="20sp"
+                            app:autoSizeMinTextSize="12sp"
+                            app:autoSizeStepGranularity="2sp"
+                            app:autoSizeTextType="uniform"
+                            android:maxLines="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingRight="10dp"
+                            android:text="korak"
+                            android:textAllCaps="false"
+                            android:textColor="@color/bijela"
+                            android:textColorHighlight="@color/crna"
+                            android:textIsSelectable="false" />
+                    </LinearLayout>
                     <ImageView
                         android:id="@+id/imopcija8"
                         android:paddingTop="20dp"
@@ -2102,25 +2367,45 @@
                     android:layout_width="match_parent"
                     android:orientation="horizontal"
                     android:layout_height="60dp">
-
-                    <TextView
-                        android:id="@+id/opcija9"
+                    <LinearLayout
                         android:layout_width="0dp"
                         android:layout_height="match_parent"
-                        android:layout_weight="0.9"
-                        app:autoSizeMaxTextSize="20sp"
-                        app:autoSizeMinTextSize="12sp"
-                        app:autoSizeStepGranularity="2sp"
-                        app:autoSizeTextType="uniform"
-                        android:maxLines="2"
-                        android:gravity="left|center_vertical"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="KORAK"
-                        android:textAllCaps="false"
-                        android:textColor="@color/bijela"
-                        android:textColorHighlight="@color/crna"
-                        android:textIsSelectable="false" />
+                        android:orientation="horizontal"
+                        android:layout_weight="0.9">
+                        <TextView
+                            android:id="@+id/opcija9Broj"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            app:autoSizeMaxTextSize="20sp"
+                            app:autoSizeMinTextSize="12sp"
+                            app:autoSizeStepGranularity="2sp"
+                            app:autoSizeTextType="uniform"
+                            android:gravity="left|center_vertical"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:text="1 - "
+                            android:maxLines="1"
+                            android:textAllCaps="false"
+                            android:textColor="@color/bijela"
+                            android:textColorHighlight="@color/crna"
+                            android:textIsSelectable="false" />
+                        <TextView
+                            android:id="@+id/opcija9"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            app:autoSizeMaxTextSize="20sp"
+                            app:autoSizeMinTextSize="12sp"
+                            app:autoSizeStepGranularity="2sp"
+                            app:autoSizeTextType="uniform"
+                            android:maxLines="2"
+                            android:gravity="left|center_vertical"
+                            android:paddingRight="10dp"
+                            android:text="korak"
+                            android:textAllCaps="false"
+                            android:textColor="@color/bijela"
+                            android:textColorHighlight="@color/crna"
+                            android:textIsSelectable="false" />
+                    </LinearLayout>
                     <ImageView
                         android:id="@+id/imopcija9"
                         android:paddingTop="20dp"
@@ -2398,7 +2683,7 @@
                             android:paddingLeft="10dp"
                             android:paddingRight="10dp"
                             android:maxLines="2"
-                            android:text="Nije osigurana tajnost glasanja"
+                            android:text="ajnost glasanja"
                             android:textAllCaps="false"
                             android:textColor="@color/bijela"
                             android:textColorHighlight="@color/crna"
@@ -5680,6 +5965,37 @@
                     android:paddingLeft="10dp"
                     android:paddingRight="10dp"
                     android:text="KORIŠTENE SKRAĆENICE"
+                    android:textAllCaps="false"
+                    android:textColor="@color/bijela"
+                    android:textColorHighlight="@color/crna"
+                    android:textIsSelectable="false"
+                    />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="3dp"
+                android:background="@color/siva" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/podnaslov88"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight=".7"
+                    app:autoSizeMaxTextSize="15sp"
+                    app:autoSizeMinTextSize="7sp"
+                    app:autoSizeStepGranularity="2sp"
+                    app:autoSizeTextType="uniform"
+                    android:maxLines="2"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:text="KORISNI LINKOVI"
                     android:textAllCaps="false"
                     android:textColor="@color/bijela"
                     android:textColorHighlight="@color/crna"

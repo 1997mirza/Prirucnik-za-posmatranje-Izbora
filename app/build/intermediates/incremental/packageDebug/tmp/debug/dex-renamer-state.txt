@@ -1,4 +1,4 @@
-#Sat Sep 12 11:01:28 CEST 2020
-base.0=C\:\\Users\\1997m\\AndroidStudioProjects\\PrirucnikIzbora\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+#Thu Sep 15 16:23:46 CEST 2022
+base.0=C\:\\Users\\1997m\\AndroidStudioProjects\\Prirucnik22\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

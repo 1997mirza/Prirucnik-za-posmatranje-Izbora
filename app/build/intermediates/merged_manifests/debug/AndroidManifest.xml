@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.prirucnikizbora"
-    android:versionCode="1"
-    android:versionName="1.5" >
+    package="com.creativocentar.prirucnik22"
+    android:versionCode="6"
+    android:versionName="6.0" >
 
     <uses-sdk
         android:minSdkVersion="17"
-        android:targetSdkVersion="29" />
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -19,12 +21,12 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.prirucnikizbora.HomeActivity"
+            android:name="com.creativocentar.prirucnik22.HomeActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name="com.example.prirucnikizbora.MainActivity"
+            android:name="com.creativocentar.prirucnik22.MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
