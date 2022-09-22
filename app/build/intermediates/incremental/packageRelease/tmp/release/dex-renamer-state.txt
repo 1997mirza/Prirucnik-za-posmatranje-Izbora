@@ -1,0 +1,4 @@
+#Tue Jul 19 19:52:24 CEST 2022
+base.0=C\:\\Users\\1997m\\AndroidStudioProjects\\Prirucnik22\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
